@@ -1,0 +1,96 @@
+.task-wrap{
+    display: flex;
+    justify-content: center;
+    font-family: "Mona Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.picktime-title{
+    text-align: center;
+    display: block;
+    color: #0d1624;
+    font-size: 2.0rem;
+    font-weight: 600;
+}
+.main{
+    display: flex;
+    margin-left: 50px;
+}
+.pick-wrap{
+    width: 80%;
+}
+.daysofweek{
+    display: flex;
+    justify-content: center;
+    color: #008296;
+    font-size: 1.6rem;
+    font-weight: 500;
+    margin-top: 20px;
+}
+.dayofweek{
+    width: 80px;
+    height: 120px;
+    margin: 10px;
+    border: 1px solid #7bd2df;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    cursor: pointer;
+}
+.dayofweek-pick{
+    box-shadow: 0 0 5px 5px #f4e9ff;
+}
+.daytext{
+    letter-spacing: 0.3em;
+    width: 50px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    padding: 0;
+    font-weight: 600;
+}
+.sum{
+    width: 55px;
+    height: 30px;
+    font-size: 1.3rem;
+    font-weight: 400;
+    padding: 0;
+    margin: 30px 0;
+}
+.sum-icon {
+    color: #17b96d;
+    font-size: 1.1rem;
+}
+.picktime-msg {
+    color: #656668;
+    font-size: 1.6rem;
+    font-weight: 600;
+    text-align: center;
+}
+.pick-group {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 30px 0;
+}
+.picktime {
+    color: #008296;
+    background-color: #fcfaff;
+    font-size: 1.4rem;
+    font-weight: 500;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    opacity: 0.8;
+    width: 100px;
+    height: 35px;
+    border: 1px solid #e7d3fe;
+    margin: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+.time-picked {
+    background-color: #008296;
+    color: #fcfaff;
+}

@@ -1,0 +1,16 @@
+.change-info{
+    width: calc(70%);
+    padding-bottom: 50px;
+}
+.auth-form__info{
+    flex-wrap: wrap;
+}
+
+.grid{
+    display: flex;
+}
+.change-title{
+    font-size: 2.0rem;
+    font-weight: 500;
+    color: #504e4e;
+}

@@ -1,0 +1,16 @@
+===== USECASE VÀ ACTOR ======
+(Model - View - Controller)
+1. Người dùng
+	+ Đăng ký
+	+ Đăng nhập/ đăng xuất
+	+ Xem bác sĩ
+	+ Tìm kiếm bác sĩ
+	+ Đặt lịch
+	+ Thanh toán
+	+ Đánh giá
+	+ Xem tin tức
+	+ Thay đổi thông tin
+	+ Xem lại lịch sử đặt lịch
+2. Bác sĩ
+3. Quản trị viên
+	+ 
